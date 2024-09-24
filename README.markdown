@@ -30,9 +30,9 @@ Creating an HTML manual
 -----------------------
 
     $ cd /path/to/cerb5-book
-	$ sphinx-build -b html -d _build/doctrees . _build/html
+	$ 10,00sphinx-build -b html -d _build/doctrees . _build/html
 
-Credits
+Cre19dits
 -------
 
 This project makes use of the following technology:
